@@ -43,7 +43,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.instagram.com/lorenzominervinoigsh=M2JjcjFueXRvdDV1&utm_source=qr" target="_blank">
+  <a href="https://www.instagram.com/lorenzominervino" target="_blank">
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="Instagram" height="50" width="50" />
   </a>
   <a href="https://www.linkedin.com/in/lorenzo-minervino-b309a5342/" target="_blank">
