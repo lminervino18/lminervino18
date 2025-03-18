@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **lorenzo.minervino@gmail.com**
   
-- 🎭 Fun fact: *"Acting is to strip certainty from anguish."*
+- 🎭 Quote : *"Acting is to strip certainty from anguish."*
 
 </td>
 <td width="50%" align="center">
@@ -30,12 +30,13 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
+  <a href="https://www.python.org/" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lminervino18&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6" alt="Most Used Languages" width="450"/> </a>
+  <br><br>
   <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/> </a> 
   <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" alt="rust" width="50" height="50"/> </a> 
   <a href="https://react.dev/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="50" height="50"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a> 
-  <a href="https://es.wikipedia.org/wiki/Smalltalk" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Smalltalk_Logo.svg" alt="smalltalk" width="50" height="50"/> </a> 
 </p>
 
 ---
@@ -44,9 +45,6 @@
 <p align="center">
   <a href="https://www.instagram.com/lorenzominervinoigsh=M2JjcjFueXRvdDV1&utm_source=qr" target="_blank">
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="Instagram" height="50" width="50" />
-  </a>
-  <a href="https://x.com/lorenzominer" target="_blank">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TwitterX.svg" alt="Twitter (X)" height="50" width="50" />
   </a>
   <a href="https://www.linkedin.com/in/lorenzo-minervino-b309a5342/" target="_blank">
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50" />
