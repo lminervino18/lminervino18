@@ -15,7 +15,7 @@
 
 - 💻 Passionate about **Fullstack Web Development**
 
-- 📫 How to reach me: **lorenzo.minervino@gmail.com**
+- 📫 How to reach me: **lminervino18@gmail.com**
   
 - 🎭 Quote : *"Acting is to strip certainty from anguish."*
 
