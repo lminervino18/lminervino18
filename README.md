@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **lminervino18@gmail.com**
   
-- 🎭 Quote : *"Acting is to strip certainty from anguish."*
+- 🌐 Portfolio: [lminervino18.com](https://lminervino18.com)
 
 </td>
 <td width="50%" align="center">
@@ -48,5 +48,8 @@
   </a>
   <a href="https://www.linkedin.com/in/lorenzo-minervino-b309a5342/" target="_blank">
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50" />
+  </a>
+  <a href="https://lminervino18.com" target="_blank">
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Portfolio.svg" alt="Portfolio" height="50" width="50" />
   </a>
 </p>
